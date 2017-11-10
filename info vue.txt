@@ -1,0 +1,34 @@
+//authoriser les certificats
+npm config set strict-ssl false
+
+//installer une librairie
+npm install --global vue-cli
+
+//creation du projet 
+vue init webpack-simple vue-imie
+
+(
+//pour mettre en cache
+npm i --g yarn
+)
+
+//installer les dépendances
+npm install
+
+//démare le seveur web et lance le navigateur
+npm run dev
+
+//dans vs code installer
+Vetur
+ESLint
+Path Intellissense
+npm Intellissense
+material icon theme
+
+// installer nodemon
+npm init
+npm i -g nodemon
+npm i express lowdb --s
+npm install body-parser -s
+
+body/raw/JSON
